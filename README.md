@@ -2,7 +2,7 @@
 Conway's game of life is sandbox game where the player is more of a spectator than an actual player. With the implementation of the game of life we tried to change this. We created an arcade box where the player has a set of pre-defined patterns he can use to place. Although the actual arcadeBox may not be available, to run the terminal based game all you have to do is run the java program as detailed below.
 
 
-## Intallation
+## Installation
 after cloning this directory run the  ```make```  
 commmand in the root directory
 
