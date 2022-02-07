@@ -63,6 +63,9 @@ commmand in the root directory
 - Pixel
 
 
+## Where is it now
+
+Currently the arcade box is being held at the Radboud university where it is being used to inspire more potentential students during the Radboud open days
 
 ## final product
 
